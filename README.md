@@ -25,7 +25,7 @@ My name is Maria and I've 10-year experience in international working environmen
 - Italian
 - Chinese
 
-## 🌎 I've lived in and worked with people from:
+## 🌎 I love travelling and getting to now different places. I've lived in:
 - Taipei
 - Shanghai
 - London
