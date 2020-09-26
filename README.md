@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Maria and I've 10-year experience in international working environments in management positions. I've lived and worked in Asia and now I'm settled in Spain, where I work for a Digital Talent Acceleretor as a Project Manager. Being in close contact with developers has made me curious about coding, and I'm studying now to become a Fullstack Web Developer!
+My name is Maria and I've 10-year experience in international working environments in management positions. I've lived and worked in Asia and now I'm settled in Spain, where I work @ [The Bridge](thebridge.tech), a Digital Talent Acceleretor as a Project Manager. Being in close contact with developers has made me curious about coding, and I'm studying now to become a Fullstack Web Developer!
 
 ## 🏋🏼 I'm currently working on: 
 - Developing digital curriculums for hard skill training in traditional education systems. 
